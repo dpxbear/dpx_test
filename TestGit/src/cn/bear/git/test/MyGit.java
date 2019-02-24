@@ -12,6 +12,8 @@ public class MyGit {
 		int c = 3;
 		
 		String d = xx;
+		
+		system.out.println(a+b);
 	}
 	
 }
