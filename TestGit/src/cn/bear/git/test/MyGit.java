@@ -7,6 +7,7 @@ public class MyGit {
 		
 		int b = 2;
 		 
+		int c = 3;
 	}
 	
 }
