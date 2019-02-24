@@ -13,7 +13,7 @@ public class MyGit {
 		
 		String d = xx;
 		
-		system.out.println(a+b);
+		system.out.println(a);
 	}
 	
 }
