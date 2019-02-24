@@ -15,6 +15,7 @@ public class MyGit {
 
 		System.out.println(a);
 		System.out.println(a+b);
+		System.out.println(a+b+c);
 
 	}
 	
